@@ -1,0 +1,485 @@
+1486517552098	geckodriver	INFO	Listening on 127.0.0.1:54309
+1486517554112	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.hPi80WIVp6Gq
+1486517554119	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486517554124	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54315
+1486517555145	Marionette	INFO	Listening on port 54315
+1486517557442	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5540] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486524574501	geckodriver	INFO	Listening on 127.0.0.1:55199
+1486524576503	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.EeNWaBvpLU2u
+1486524576526	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486524576541	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55205
+1486524578326	Marionette	INFO	Listening on port 55205
+1486524580896	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 7136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486544865722	geckodriver	INFO	Listening on 127.0.0.1:58938
+1486544867947	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.rmB2a1CfxWQI
+1486544867954	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486544867961	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58956
+1486544869771	Marionette	INFO	Listening on port 58956
+1486544872542	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 9132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486545350431	geckodriver	INFO	Listening on 127.0.0.1:60036
+1486545352504	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.vod5bAMKavmi
+1486545352529	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486545352535	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60046
+1486545353447	Marionette	INFO	Listening on port 60046
+1486545355714	Marionette	WARN	Using deprecated data structure for setting timeouts
+1486545416099	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486545416107	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486545416108	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486545455155	geckodriver	INFO	Listening on 127.0.0.1:60315
+1486545457214	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.uzGLwhLq44dB
+1486545457219	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486545457226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60325
+1486545458206	Marionette	INFO	Listening on port 60325
+1486545460992	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+NFO	Connecting to Marionette on localhost:60441
+1486545500240	Marionette	INFO	Listening on port 60441
+1486545502566	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486618962584	geckodriver	INFO	Listening on 127.0.0.1:50166
+1486618965250	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.4tsL1U2FVprw
+1486618965319	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486618965330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50183
+1486618966867	Marionette	INFO	Listening on port 50183
+[Child 1516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486619037339	geckodriver	INFO	Listening on 127.0.0.1:50409
+1486619039405	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.jWo6gNmBOUEG
+1486619039413	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486619039419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50419
+1486619040739	Marionette	INFO	Listening on port 50419
+1486619222108	geckodriver	INFO	Listening on 127.0.0.1:50829
+1486619224118	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.D5QM6uzKzhai
+1486619224130	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486619224136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50839
+1486619225763	Marionette	INFO	Listening on port 50839
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486619259928	geckodriver	INFO	Listening on 127.0.0.1:50937
+1486619261986	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.HIUAQbsnzOzA
+1486619261992	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486619261998	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50947
+1486619262768	Marionette	INFO	Listening on port 50947
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486626109827	geckodriver	INFO	Listening on 127.0.0.1:49291
+1486626111822	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.vEDJAhkRgNAw
+1486626111828	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486626111833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49301
+1486626113551	Marionette	INFO	Listening on port 49301
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2924] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486626295568	geckodriver	INFO	Listening on 127.0.0.1:49713
+1486626297622	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.HU4Pwp2PhVk5
+1486626297627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486626297633	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49723
+1486626299202	Marionette	INFO	Listening on port 49723
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486626361432	geckodriver	INFO	Listening on 127.0.0.1:49890
+1486626363494	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.aouTU15FFsfa
+1486626363499	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486626363504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49900
+1486626365057	Marionette	INFO	Listening on port 49900
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9620] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486626669560	geckodriver	INFO	Listening on 127.0.0.1:50576
+1486626671622	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.cyp9K3D3zq2E
+1486626671627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486626671633	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50586
+1486626673287	Marionette	INFO	Listening on port 50586
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486626855231	geckodriver	INFO	Listening on 127.0.0.1:51028
+1486626857294	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.S1493pJCqMRG
+1486626857299	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486626857305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51038
+1486626858168	Marionette	INFO	Listening on port 51038
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486627274140	geckodriver	INFO	Listening on 127.0.0.1:52111
+1486627276206	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.7A1C43wsDW0l
+1486627276213	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486627276219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52121
+1486627277046	Marionette	INFO	Listening on port 52121
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486627454811	geckodriver	INFO	Listening on 127.0.0.1:52526
+1486627456873	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.ruyjfxTS9x7f
+1486627456878	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486627456884	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52536
+1486627457700	Marionette	INFO	Listening on port 52536
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1486627603805	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 4024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/sr1486627604847	Marionette	INFO	Listening on port 52967
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486628384964	geckodriver	INFO	Listening on 127.0.0.1:55156
+1486628386978	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.EPjBrhYSDUuK
+1486628386984	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486628386992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55166
+1486628679262	geckodriver	INFO	Listening on 127.0.0.1:55951
+1486628681344	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.vrzWq9mtaFws
+1486628681353	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486628681359	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55961
+1486628682128	Marionette	INFO	Listening on port 55961
+1486628683328	Marionette	INFO	startBrowser 2a592293-dba2-44f9-9408-906277c2153d
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486628753906	geckodriver	INFO	Listening on 127.0.0.1:56146
+1486628755987	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.E8fHLl6SEAjt
+1486628755995	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486628756001	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56157
+1486628756684	Marionette	INFO	Listening on port 56157
+1486628758487	Marionette	INFO	startBrowser de0ba3c1-672a-49a3-9291-aa38dee53124
+[Child 5668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486628765211	geckodriver	INFO	Listening on 127.0.0.1:56200
+1486628767279	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.2kPWaatTiImi
+1486628767286	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486628767293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56210
+1486628768023	Marionette	INFO	Listening on port 56210
+1486628769613	Marionette	INFO	startBrowser e3afd4d3-52b6-42ab-958a-17e75a2cd307
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9664] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9664] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486628810240	geckodriver	INFO	Listening on 127.0.0.1:56342
+1486628812307	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.blTJrlcekBMb
+1486628812314	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486628812322	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56352
+1486628813064	Marionette	INFO	Listening on port 56352
+1486628814714	Marionette	INFO	startBrowser ac4ce70f-a128-425c-ac4a-3c3579ed0c14
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486629041843	geckodriver	INFO	Listening on 127.0.0.1:56923
+1486629043908	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.D964AAUvqFGM
+1486629043913	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486629043918	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56933
+1486629044648	Marionette	INFO	Listening on port 56933
+1486629046329	Marionette	INFO	startBrowser 13b550af-0da8-4d42-9331-6270736d3bae
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486629097772	geckodriver	INFO	Listening on 127.0.0.1:57089
+1486629099829	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.ZjCS5UCaDqx6
+1486629099835	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486629099841	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57099
+1486629100630	Marionette	INFO	Listening on port 57099
+1486629102312	Marionette	INFO	startBrowser 5adac142-c156-49cd-8e4a-039931ba7c44
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1486629177149	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486630682928	geckodriver	INFO	Listening on 127.0.0.1:60511
+1486630684992	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.IayZdZoT0Ipa
+1486630684998	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486630685004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60521
+1486630685758	Marionette	INFO	Listening on port 60521
+1486630687422	Marionette	INFO	startBrowser f1e61af9-cac4-405c-ba05-6a3d70e1414d
+[Child 7224] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7224] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486630922100	geckodriver	INFO	Listening on 127.0.0.1:61099
+1486630924156	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.zSngNJkLuy9A
+1486630924162	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486630924168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61109
+1486630924931	Marionette	INFO	Listening on port 61109
+1486630926537	Marionette	INFO	startBrowser 68a0c42d-1ffc-4948-9717-3143679e9dea
+[Child 3128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486707957568	geckodriver	INFO	Listening on 127.0.0.1:61098
+1486707959355	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.aPth6VPCAikj
+1486707959364	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486707959372	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61113
+1488272138390	geckodriver	INFO	Listening on 127.0.0.1:47864
+1488272140715	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.6Jz7NKyNc4Vv
+1488272140726	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488272140738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47879
+1488272142574	Marionette	INFO	Listening on port 47879
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488521183229	geckodriver	INFO	Listening on 127.0.0.1:15473
+1488521187135	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.osqBJsRJ7XCe
+1488521187154	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488521187163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:15486
+1488521188897	Marionette	INFO	Listening on port 15486
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488874372979	geckodriver	INFO	Listening on 127.0.0.1:31197
+1488874378260	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.jsWI5C0C0ykC
+1488874378286	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488874378293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31230
+1488874380250	Marionette	INFO	Listening on port 31230
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488874614850	geckodriver	INFO	Listening on 127.0.0.1:31779
+1488874616964	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.c09WxdIlYGBc
+1488874616976	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488874616989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31790
+1488874617828	Marionette	INFO	Listening on port 31790
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488874686987	geckodriver	INFO	Listening on 127.0.0.1:31989
+1488874689039	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.zRXKfkIjkjN7
+1488874689045	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488874689051	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31999
+1488874690029	Marionette	INFO	Listening on port 31999
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488874755400	geckodriver	INFO	Listening on 127.0.0.1:32195
+1488874757463	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.TgrK4vm8NUXC
+1488874757471	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488874757477	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32205
+1488874758387	Marionette	INFO	Listening on port 32205
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488874888603	geckodriver	INFO	Listening on 127.0.0.1:32519
+1488874890668	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.gmYKJL3e8Y7H
+1488874890672	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488874890679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32529
+1488874891549	Marionette	INFO	Listening on port 32529
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488876516028	geckodriver	INFO	Listening on 127.0.0.1:36372
+1488876518095	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.tiDpp3gQRh6Q
+1488876518103	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488876518111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36382
+1488876519155	Marionette	INFO	Listening on port 36382
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1488876904835	geckodriver	INFO	Listening on 127.0.0.1:37279
+1488876906942	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.8TMBXULImWtE
+1488876906950	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488876906959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37289
+1488876908417	Marionette	INFO	Listening on port 37289
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488877017784	geckodriver	INFO	Listening on 127.0.0.1:37557
+1488877019855	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.yjivQBJkbFQM
+1488877019866	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488877019878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37567
+1488877020738	Marionette	INFO	Listening on port 37567
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488877089507	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488877089511	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1488877089512	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1488877186579	geckodriver	INFO	Listening on 127.0.0.1:37979
+1488877188640	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.E1jmVx0e4EFA
+1488877188646	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488877188651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37989
+1488877189479	Marionette	INFO	Listening on port 37989
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1488877291459	geckodriver	INFO	Listening on 127.0.0.1:38267
+1488877293517	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.wvCO2OBv4Txc
+1488877293522	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488877293528	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38277
+1488877294372	Marionette	INFO	Listening on port 38277
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488877364912	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1488877399134	geckodriver	INFO	Listening on 127.0.0.1:38563
+1488877401216	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.dTyl5OaYNgn9
+1488877401222	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488877401229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38573
+1488877402072	Marionette	INFO	Listening on port 38573
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4388] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488877461436	geckodriver	INFO	Listening on 127.0.0.1:38762
+1488877463503	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.1ft5emxyztve
+1488877463511	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488877463520	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38772
+1488877464469	Marionette	INFO	Listening on port 38772
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 7744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browse[Child 1052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 1052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 322: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 651: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 115: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+1489048063663	geckodriver	INFO	Listening on 127.0.0.1:46384
+1489048065782	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.pMn4GNYgBbwO
+1489048065805	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489048065824	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46391
+1489048067556	Marionette	INFO	Listening on port 46391
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 6800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489048552638	geckodriver	INFO	Listening on 127.0.0.1:46526
+1489048554709	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.GJVt5OJb1KAc
+1489048554719	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489048554733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46532
+1489048555707	Marionette	INFO	Listening on port 46532
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489048628067	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46597
+1489048628973	Marionette	INFO	Listening on port 46597
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489048714873	geckodriver	INFO	Listening on 127.0.0.1:46653
+1489048716972	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.kiLLBsnstinw
+1489048716982	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489048716993	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46659
+1489048717902	Marionette	INFO	Listening on port 46659
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1489048784656	geckodriver	INFO	Listening on 127.0.0.1:46710
+1489048786750	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.wjFUHjrZYIJG
+1489048786761	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489048786775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46716
+1489048787633	Marionette	INFO	Listening on port 46716
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1489049867115	geckodriver	INFO	Listening on 127.0.0.1:47012
+1489049869183	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.XUm9S68GqM5I
+1489049869188	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489049869194	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47018
+1489049870234	Marionette	INFO	Listening on port 47018
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 12592] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489049968990	geckodriver	INFO	Listening on 127.0.0.1:47074
+1489049971029	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.UZaMgvgowXxG
+1489049971039	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489049971050	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47080
+1489049972360	Marionette	INFO	Listening on port 47080
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 3956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489050063454	geckodriver	INFO	Listening on 127.0.0.1:47145
+1489050065524	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.xGmm9b8lAplO
+1489050065534	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489050065542	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47151
+1489050066514	Marionette	INFO	Listening on port 47151
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489050138054	geckodriver	INFO	Listening on 127.0.0.1:47214
+1489050140119	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.nv6kL7Bc0tpg
+1489050140128	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489050140138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47220
+1489050141004	Marionette	INFO	Listening on port 47220
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1200] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489050203868	geckodriver	INFO	Listening on 127.0.0.1:47271
+1489050205935	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.igakQCqcUjMp
+1489050205942	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489050205949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47277
+1489050206896	Marionette	INFO	Listening on port 47277
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 13208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489115709362	geckodriver	INFO	Listening on 127.0.0.1:54609
+1489115713778	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.kIsfG6aNtFnG
+1489115713795	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489115713801	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54616
+1489115714997	Marionette	INFO	Listening on port 54616
+1489116364648	geckodriver	INFO	Listening on 127.0.0.1:54708
+1489116366703	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.hE64qfs50GE2
+1489116366709	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489116366715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54714
+1489116367564	Marionette	INFO	Listening on port 54714

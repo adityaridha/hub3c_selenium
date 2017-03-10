@@ -1,0 +1,138 @@
+1489127939093	geckodriver	INFO	Listening on 127.0.0.1:60660
+1489127941149	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.P3AYvZSfCa4s
+1489127941156	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489127941162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60668
+1489127942176	Marionette	INFO	Listening on port 60668
+[Child 8060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489128021273	geckodriver	INFO	Listening on 127.0.0.1:60760
+1489128023345	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.i6h7apGBOrq9
+1489128023357	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489128023369	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60768
+1489128024269	Marionette	INFO	Listening on port 60768
+[Child 14780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489128097367	geckodriver	INFO	Listening on 127.0.0.1:60856
+1489128099460	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.Yd0tHVWn194e
+1489128099469	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489128099479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60864
+1489128100507	Marionette	INFO	Listening on port 60864
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489128722033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61678
+1489128723364	Marionette	INFO	Listening on port 61678
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+O	Connecting to Marionette on localhost:61950
+1489128928779	Marionette	INFO	Listening on port 61950
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter31
+ofile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.nTcs0YhT6Uvl
+1489129392478	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489129392491	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62706
+1489129394150	Marionette	INFO	Listening on port 62706
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5008] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489129683340	geckodriver	INFO	Listening on 127.0.0.1:63078
+1489129685437	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.vOmukn3d1vBl
+1489129685446	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489129685456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63086
+1489129686924	Marionette	INFO	Listening on port 63086
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489129821917	geckodriver	INFO	Listening on 127.0.0.1:63279
+1489129823981	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.pVF1BEOuSTeL
+1489129823987	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489129823993	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63287
+1489129824882	Marionette	INFO	Listening on port 63287
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489129899996	geckodriver	INFO	Listening on 127.0.0.1:63414
+1489129902082	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.PUDcKpMR3nSt
+1489129902092	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489129902100	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63421
+1489129903017	Marionette	INFO	Listening on port 63421
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13348] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489129991680	geckodriver	INFO	Listening on 127.0.0.1:63559
+1489129993739	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.apYkrLE7sggG
+1489129993745	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489129993751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63567
+1489129994671	Marionette	INFO	Listening on port 63567
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12972] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489130123205	geckodriver	INFO	Listening on 127.0.0.1:63753
+1489130125277	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.1zzslEbnrPvK
+1489130125290	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489130125297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63761
+1489130126106	Marionette	INFO	Listening on port 63761
+[Child 9412] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489130140793	geckodriver	INFO	Listening on 127.0.0.1:63806
+1489130142883	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.2yh6JoVpb1tm
+1489130142893	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489130142902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63814
+1489130143758	Marionette	INFO	Listening on port 63814
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3972] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489130211750	geckodriver	INFO	Listening on 127.0.0.1:63936
+1489130213836	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.bPNBCvCgmFrc
+1489130213845	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489130213856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63944
+1489130214906	Marionette	INFO	Listening on port 63944
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489131299501	geckodriver	INFO	Listening on 127.0.0.1:65270
+1489131301576	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.FuAcpwfaI7kr
+1489131301589	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489131301597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65278
+1489131302656	Marionette	INFO	Listening on port 65278
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489132054835	geckodriver	INFO	Listening on 127.0.0.1:1666
+1489132056861	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.605WTne9NYKx
+1489132056866	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489132056873	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1674
+1489132058076	Marionette	INFO	Listening on port 1674
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12708] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489132178513	geckodriver	INFO	Listening on 127.0.0.1:1846
+1489132180541	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.uGkrviEPNx1o
+1489132180548	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489132180555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1853
+1489132181895	Marionette	INFO	Listening on port 1853
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12848] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489132219191	geckodriver	INFO	Listening on 127.0.0.1:1944
+1489132221216	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.zgPNWAlxm2pL
+1489132221221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489132221228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1953
+1489132221977	Marionette	INFO	Listening on port 1953
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5092] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489132291317	geckodriver	INFO	Listening on 127.0.0.1:2066
+1489132293371	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.09OUKGen21yN
+1489132293377	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489132293385	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2074
+1489132294116	Marionette	INFO	Listening on port 2074
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11036] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489132575418	geckodriver	INFO	Listening on 127.0.0.1:2469
+1489132577490	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.yQqenOFkBgJQ
+1489132577500	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489132577510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2477
+1489132578328	Marionette	INFO	Listening on port 2477
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2148] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

@@ -1,0 +1,145 @@
+1489116718153	geckodriver	INFO	Listening on 127.0.0.1:54802
+1489116720215	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.DQYHwKKFLwNI
+1489116720221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489116720248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54808
+1489116721690	Marionette	INFO	Listening on port 54808
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489116787013	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489116787031	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489116787034	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489116896976	geckodriver	INFO	Listening on 127.0.0.1:54887
+1489116899001	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.nSGtMACtY8GS
+1489116899007	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489116899013	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54893
+1489116900375	Marionette	INFO	Listening on port 54893
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489116926314	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54951
+1489116927699	Marionette	INFO	Listening on port 54951
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 12956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489116993342	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489116993344	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489116993345	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489117045872	geckodriver	INFO	Listening on 127.0.0.1:55031
+1489117047910	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.2Gt1OQdyjh20
+1489117047916	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117047922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55037
+1489117049627	Marionette	INFO	Listening on port 55037
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 2892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+localhost:55176
+1489117314216	Marionette	INFO	Listening on port 55176
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 13928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489117400127	geckodriver	INFO	Listening on 127.0.0.1:55243
+1489117402155	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.Z9VGTZUUddl5
+1489117402161	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117402166	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55249
+1489117403046	Marionette	INFO	Listening on port 55249
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+rust_mozprofile.m3pSKcHhv1X8
+1489117513218	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117513224	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55309
+1489117514070	Marionette	INFO	Listening on port 55309
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 5860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489117612166	geckodriver	INFO	Listening on 127.0.0.1:55381
+1489117614242	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.KXEE97YeCwGE
+1489117614252	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117614291	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55388
+1489117615240	Marionette	INFO	Listening on port 55388
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 14092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489117876594	geckodriver	INFO	Listening on 127.0.0.1:55454
+1489117878642	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.ZHAjRviCgmVz
+1489117878648	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117878654	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55460
+1489117879557	Marionette	INFO	Listening on port 55460
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 3436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489117944402	geckodriver	INFO	Listening on 127.0.0.1:55523
+1489117946484	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.jd545peV6N6x
+1489117946492	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489117946502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55529
+1489117947325	Marionette	INFO	Listening on port 55529
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.validate.unobtrusive.min.js, line 5: SyntaxError: invalid regexp group
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://test.hub3c.com/Scripts/jquery.min.js, line 3: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 13656] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489118164033	geckodriver	INFO	Listening on 127.0.0.1:55688
+1489118166096	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.RCUYuHOOpX7x
+1489118166106	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489118166116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55694
+1489118166983	Marionette	INFO	Listening on port 55694
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://test.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489118237399	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489118237401	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489118237404	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489120524529	geckodriver	INFO	Listening on 127.0.0.1:56027
+1489120529603	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.esOS3tIIEDBO
+1489120529623	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489120529630	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56034
+1489120532240	Marionette	INFO	Listening on port 56034
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4512] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489120644305	geckodriver	INFO	Listening on 127.0.0.1:56376
+1489120646352	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.HQM4mVnFNHyN
+1489120646359	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489120646366	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56382
+1489120647219	Marionette	INFO	Listening on port 56382
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14512] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
