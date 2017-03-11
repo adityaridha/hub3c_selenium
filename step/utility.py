@@ -21,14 +21,17 @@ class Hub3cUtility():
     def setup_browser(self, browser, url):
         if browser == 'Firefox':
             self.driver = webdriver.Firefox()
-            self.driver.firefox_profile(C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.NFKTTkkS1a7v)
-        if browser == 'Chrome' : self.driver = webdriver.Chrome("C:\\Python\\selenium\\webdriver\\chromedriver_win32\\chromedriver.exe")
+            # self.driver.firefox_profile(C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.NFKTTkkS1a7v)
+        if browser == 'Chrome' : self.driver = webdriver.Chrome()
         self.driver.get(url)
         assert url == self.driver.current_url
 
+    def close_browser(self):
+        print("closing the browser")
+        self.driver.quit()
+
     def login_hub3c(self, username, password):
         driver = self.driver
-
         try :
             WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "UserName")))
             print("Login page is ready!")

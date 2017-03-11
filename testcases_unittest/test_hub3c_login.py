@@ -23,7 +23,7 @@ class LoginHub3C(unittest.TestCase):
 
 	def setUp(self, browser='Firefox' or 'Chrome'):
 		if browser == 'Firefox' : self.driver = webdriver.Firefox()
-		if browser == 'Chrome' 	: self.driver = webdriver.Chrome("C:\\Python\\selenium\\webdriver\\chromedriver_win32\\chromedriver.exe")
+		if browser == 'Chrome' 	: self.driver = webdriver.Chrome("C:\\Python\\webdriver\\chromedriver.exe")
 		
 	def test_login_hub3c(self):
 		driver = self.driver

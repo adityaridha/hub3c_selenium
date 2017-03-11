@@ -1,4 +1,7 @@
-from model.utility import Hub3cUtility
+import sys
+sys.path.append("D:\Work\hub3c_selenium")
+
+from step.utility import *
 
 __author__ 		= "Muhammad Aditya Ridharrahman"
 __version__ 	= "1.0"
@@ -22,5 +25,6 @@ def test_answer_2():
 	assert func(5) == 6
 
 def test_login_hub3c():
-	step.setup_browser(browser="Firefox", url=HUB3C_URL)
+	step.setup_browser(browser="Chrome", url=HUB3C_URL)
 	step.login_hub3c(username=USER_NAME, password=PASSWORD)
+	step.close_browser()
