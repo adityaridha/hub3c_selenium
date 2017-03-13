@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
+from datetime import datetime
 import time
 
 __author__      = "Muhammad Aditya Ridharrahman"
@@ -16,12 +17,11 @@ __last_update__ = "10th Feb 2017"
 class Hub3cUtility():
 
     def __init__(self):
+        self.current_time = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
         print("prepare browser configuration")
 
     def setup_browser(self, browser, url):
-        if browser == 'Firefox':
-            self.driver = webdriver.Firefox()
-            # self.driver.firefox_profile(C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.NFKTTkkS1a7v)
+        if browser == 'Firefox': self.driver = webdriver.Firefox()
         if browser == 'Chrome' : self.driver = webdriver.Chrome()
         self.driver.get(url)
         assert url == self.driver.current_url
@@ -59,18 +59,17 @@ class Hub3cUtility():
 
         try:
             WebDriverWait(driver, 10).until(EC.title_is("Hub3c - Home"))
-            print("Home page is ready!")
-        except TimeoutException:
-            print("Login take took too much time!")
-
+        except Exception as e:
+            print(e)
+            driver.get_screenshot_as_file('screenshot-%s.png' % self.current_time)
 
         print(driver.title)
         assert "Hub3c - Home" == driver.title
 
-        time.sleep(4)
-        driver.save_screenshot('..\capture\login1.png')
+        time.sleep(3)
+        print("take a screenshot")
+        driver.get_screenshot_as_file('..\log_test\login-%s.png' % self.current_time)
 
-        # driver.quit()
 
 if __name__ == "__main__":
     pass

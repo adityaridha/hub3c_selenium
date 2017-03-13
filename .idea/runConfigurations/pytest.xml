@@ -3,9 +3,9 @@
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs />
-    <option name="SDK_HOME" value="C:\Users\Adityaridha\AppData\Local\Programs\Python\Python35-32\python.exe" />
+    <option name="SDK_HOME" value="" />
     <option name="WORKING_DIRECTORY" value="" />
-    <option name="IS_MODULE_SDK" value="false" />
+    <option name="IS_MODULE_SDK" value="true" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <module name="hub3c_selenium" />
@@ -16,7 +16,7 @@
     <option name="TEST_TYPE" value="TEST_SCRIPT" />
     <option name="PATTERN" value="" />
     <option name="USE_PATTERN" value="false" />
-    <option name="testToRun" value="D:\Work\hub3c_selenium\pytest_selenium\test_hub3c_login.py" />
+    <option name="testToRun" value="D:\Work\hub3c_selenium\1_testcases_pytest\test_execution.py" />
     <option name="keywords" value="" />
     <option name="params" value="-v" />
     <option name="USE_PARAM" value="true" />

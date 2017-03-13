@@ -232,3 +232,199 @@ WebGL(1ACCC800)::ForceLoseContext
 JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 [Child 5576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 5576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1489368473476	geckodriver	INFO	Listening on 127.0.0.1:12325
+1489368475457	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.hm1yRcrHlZBO
+1489368475464	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489368475471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12331
+1489368477736	Marionette	INFO	Listening on port 12331
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9932] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489370136412	geckodriver	INFO	Listening on 127.0.0.1:12578
+1489370138484	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.R5vNl8dyNQYh
+1489370138494	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489370138504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12584
+1489370140098	Marionette	INFO	Listening on port 12584
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 7964] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7964] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+1489370689897	geckodriver	INFO	Listening on 127.0.0.1:12714
+1489370691948	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.K84oc0qLIxi4
+1489370691956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489370691965	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12720
+1489370692837	Marionette	INFO	Listening on port 12720
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8816] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489371348382	geckodriver	INFO	Listening on 127.0.0.1:12822
+1489371350441	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.Ofk6v2lgb7yS
+1489371350450	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489371350459	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12828
+1489371351517	Marionette	INFO	Listening on port 12828
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 7400] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489371833912	geckodriver	INFO	Listening on 127.0.0.1:13113
+1489371835962	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.imKCdYZiRdzx
+1489371835969	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489371835975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13119
+1489371837543	Marionette	INFO	Listening on port 13119
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489371897881	geckodriver	INFO	Listening on 127.0.0.1:13173
+1489371899948	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.evrIQz0HLDks
+1489371899954	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489371899961	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13180
+1489371900932	Marionette	INFO	Listening on port 13180
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1380] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489372017172	geckodriver	INFO	Listening on 127.0.0.1:13234
+1489372019243	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.zA8Nb9e2KfmX
+1489372019267	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489372019279	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13241
+1489372020321	Marionette	INFO	Listening on port 13241
+1489372487888	geckodriver	INFO	Listening on 127.0.0.1:13348
+1489372489962	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.euK1KUNTlSBl
+1489372489968	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489372489975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13354
+1489372490898	Marionette	INFO	Listening on port 13354
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489372558475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489372558478	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489372918869	geckodriver	INFO	Listening on 127.0.0.1:13547
+1489372920947	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.bsEzeaDtLys2
+1489372920954	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489372920963	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13553
+1489372921853	Marionette	INFO	Listening on port 13553
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1489373038991	geckodriver	INFO	Listening on 127.0.0.1:13633
+1489373041087	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.qU4Exm7hS7Lf
+1489373041095	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489373041102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13639
+1489373042041	Marionette	INFO	Listening on port 13639
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 844] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489373126908	geckodriver	INFO	Listening on 127.0.0.1:13688
+1489373128971	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.QA180yvzjByP
+1489373128977	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489373128985	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13695
+1489373129931	Marionette	INFO	Listening on port 13695
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10784] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489373298790	geckodriver	INFO	Listening on 127.0.0.1:13764
+1489373300863	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.mAjwkNG3ZTHs
+1489373300904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489373300913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13770
+1489373301786	Marionette	INFO	Listening on port 13770
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14288] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489373372851	geckodriver	INFO	Listening on 127.0.0.1:13819
+1489373374945	mozprofile::profile	INFO	Using profile path C:\Users\Geekseat\AppData\Local\Temp\rust_mozprofile.Se45w1Cjm1P2
+1489373374956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489373374966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13825
+1489373375949	Marionette	INFO	Listening on port 13825
+JavaScript warning: https://demo.hub3c.com/Scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5424] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
