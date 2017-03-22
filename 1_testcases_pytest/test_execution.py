@@ -11,8 +11,8 @@ __status__ 		= "development"
 
 USER_NAME 			= "aditya.ridharrahman@geekseat.com.au"
 PASSWORD 			= "ZXasqw12"
-HUB3C_URL			= "https://demo.hub3c.com/"
-HUB3C_DASHBOARD_URL = "http://demo.hub3c.com/Home/Index"
+HUB3C_URL			= "https://test.hub3c.com/"
+HUB3C_DASHBOARD_URL = "http://test.hub3c.com/Home/Index"
 
 
 step = Hub3cUtility()

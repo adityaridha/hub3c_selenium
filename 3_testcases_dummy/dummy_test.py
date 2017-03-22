@@ -95,7 +95,6 @@ def convert_round(data):
 
 '''write csv test'''
 
-with open('eggs.csv', 'wb') as csvfile:
-    spamwriter = csv.writer(csvfile, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    spamwriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
+with open('eggs.csv', 'a') as csvfile:
+    spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    spamwriter.writerow(['Muhammad','Indonesia'])

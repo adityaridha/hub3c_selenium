@@ -6,6 +6,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from datetime import datetime
 from faker import Factory
+import csv
 import time
 
 __author__      = "Muhammad Aditya Ridharrahman"
@@ -110,6 +111,7 @@ class Hub3cUtility():
         except TimeoutException:
             print("Loading took too much time!")
 
+        time.sleep(1)
         driver.find_element_by_xpath("//*[@id='DefaultTimezone_listbox']/li[82]").click()
 
         driver.find_element_by_xpath(".//*[@id='EmailAddress']").send_keys(email)
@@ -118,21 +120,14 @@ class Hub3cUtility():
         driver.find_element_by_xpath("html/body/div[1]/div[3]/div/div[2]/div[1]/form/div[8]/label/span").click()
         print(driver.find_element_by_xpath(".//*[@id='button-submit']"))
 
+        driver.find_element_by_xpath(".//*[@id='button-submit']").click()
+
+        with open('registration.csv', 'a') as csvfile:
+            registration_data = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+            registration_data.writerow([driver.current_url, email, password, first_name, last_name])
+
         driver.quit()
 
-        #  register_information = {
-        #     "Business Name" :   business,
-        #      "First Name"   :   first_name,
-        #      "Last Name"    :   last_name,
-        #
-        #
-        #     }
-        #
-        # # print(test_case_id)
-        #
-        # # with open(file.db('testcase_id.txt'), 'w') as f :
-        # #     json.dump(test_case_id, f)
-        #
 
 if __name__ == "__main__":
     pass
