@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14eb806f-f5b8-4f2b-93d5-ca485ad33853" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3_testcases_dummy/appium_dummy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3_testcases_dummy/dummy_appium.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_testcases_pytest/test_execution.py" afterPath="$PROJECT_DIR$/1_testcases_pytest/test_execution.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_testcases_dummy/dummy_test.py" afterPath="$PROJECT_DIR$/3_testcases_dummy/dummy_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_testcases_dummy/eggs.csv" afterPath="$PROJECT_DIR$/3_testcases_dummy/eggs.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/step_builder.py" afterPath="$PROJECT_DIR$/model/step_builder.py" />
     </list>
     <ignored path="hub3c_selenium.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/1_testcases_pytest/test_execution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
-              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -61,13 +60,39 @@
       <file leaf-file-name="dummy_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_testcases_dummy/dummy_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="680">
+              <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
               <folding>
+                <element signature="e#0#30#0" expanded="true" />
                 <element signature="e#615#840#0" expanded="false" />
                 <element signature="e#858#894#0" expanded="false" />
                 <element signature="e#1042#1064#0" expanded="false" />
                 <element signature="e#2928#2950#0" expanded="false" />
+                <element signature="e#3268#3308#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appium_dummy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_testcases_dummy/appium_dummy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dummy_appium.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_testcases_dummy/dummy_appium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="step_builder.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="step_builder.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/step_builder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1938">
+            <state relative-caret-position="1602">
               <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -110,7 +135,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="registration.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1_testcases_pytest/registration.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -136,9 +161,11 @@
         <option value="$PROJECT_DIR$/4_step/utility.py" />
         <option value="$PROJECT_DIR$/step/utility.py" />
         <option value="$PROJECT_DIR$/3_testcases_dummy/eggs.csv" />
-        <option value="$PROJECT_DIR$/3_testcases_dummy/dummy_test.py" />
         <option value="$PROJECT_DIR$/model/step_builder.py" />
         <option value="$PROJECT_DIR$/1_testcases_pytest/test_execution.py" />
+        <option value="$PROJECT_DIR$/3_testcases_dummy/dummy_test.py" />
+        <option value="$PROJECT_DIR$/3_testcases_dummy/dummy_appium.py" />
+        <option value="$PROJECT_DIR$/3_testcases_dummy/appium_dummy.py" />
       </list>
     </option>
   </component>
@@ -248,7 +275,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest">
+  <component name="RunManager" selected="Python.appium_dummy">
     <configuration default="false" name="dummy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,6 +323,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hub3c_selenium" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_testcases_pytest/test_execution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in SimpleAndroidTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_testcases_dummy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hub3c_selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_testcases_dummy/dummy_appium.py" />
+      <option name="CLASS_NAME" value="SimpleAndroidTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="appium_dummy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_testcases_dummy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hub3c_selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_testcases_dummy/appium_dummy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -434,17 +500,21 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.pytest" />
       <item index="1" class="java.lang.String" itemvalue="Python.dummy_test" />
       <item index="2" class="java.lang.String" itemvalue="Python.utility" />
       <item index="3" class="java.lang.String" itemvalue="Python.test_execution" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleAndroidTests" />
+      <item index="5" class="java.lang.String" itemvalue="Python.appium_dummy" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.dummy_test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.appium_dummy" />
         <item index="1" class="java.lang.String" itemvalue="Python.test_execution" />
-        <item index="2" class="java.lang.String" itemvalue="Python.utility" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dummy_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SimpleAndroidTests" />
+        <item index="4" class="java.lang.String" itemvalue="Python.utility" />
       </list>
     </recent_temporary>
   </component>
@@ -466,12 +536,19 @@
       <option name="project" value="LOCAL" />
       <updated>1490001426357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done write csv">
+      <created>1490157723824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490157723824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest - 2017.03.16 at 14h 44m 05s.xml">
-      <configuration name="pytest" configurationId="tests" />
+    <history-entry file="Unittests_in_SimpleAndroidTests - 2017.03.23 at 10h 16m 31s.xml">
+      <configuration name="Unittests in SimpleAndroidTests" configurationId="tests" />
     </history-entry>
     <history-entry file="pytest - 2017.03.16 at 14h 47m 03s.xml">
       <configuration name="pytest" configurationId="tests" />
@@ -510,7 +587,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.307611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48097253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -537,7 +614,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="csv test and text table" />
-    <option name="LAST_COMMIT_MESSAGE" value="csv test and text table" />
+    <MESSAGE value="done write csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="done write csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,22 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_testcases_pytest/test_execution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_testcases_dummy/faker_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_testcases_dummy/google_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -577,10 +639,12 @@
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="10" />
           <folding>
+            <element signature="e#0#30#0" expanded="true" />
             <element signature="e#615#840#0" expanded="false" />
             <element signature="e#858#894#0" expanded="false" />
             <element signature="e#1042#1064#0" expanded="false" />
             <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,10 +719,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#0#30#0" expanded="true" />
             <element signature="e#615#840#0" expanded="false" />
             <element signature="e#858#894#0" expanded="false" />
             <element signature="e#1042#1064#0" expanded="false" />
             <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -717,10 +783,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#0#30#0" expanded="true" />
             <element signature="e#615#840#0" expanded="false" />
             <element signature="e#858#894#0" expanded="false" />
             <element signature="e#1042#1064#0" expanded="false" />
             <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -779,10 +847,12 @@
         <state relative-caret-position="221">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
+            <element signature="e#0#30#0" expanded="true" />
             <element signature="e#615#840#0" expanded="false" />
             <element signature="e#858#894#0" expanded="false" />
             <element signature="e#1042#1064#0" expanded="false" />
             <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,10 +911,12 @@
         <state relative-caret-position="136">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="20" />
           <folding>
+            <element signature="e#0#30#0" expanded="true" />
             <element signature="e#615#840#0" expanded="false" />
             <element signature="e#858#894#0" expanded="false" />
             <element signature="e#1042#1064#0" expanded="false" />
             <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -957,38 +1029,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_testcases_dummy/dummy_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#615#840#0" expanded="false" />
-            <element signature="e#858#894#0" expanded="false" />
-            <element signature="e#1042#1064#0" expanded="false" />
-            <element signature="e#2928#2950#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/step_builder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <element signature="e#632#743#0" expanded="false" />
-            <element signature="e#796#1033#0" expanded="false" />
-            <element signature="e#1072#1127#0" expanded="false" />
-            <element signature="e#2494#2623#0" expanded="false" />
-            <element signature="e#2664#2749#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_testcases_pytest/test_execution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -998,6 +1042,56 @@
         <state relative-caret-position="34">
           <caret line="2" column="56" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_testcases_dummy/dummy_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#615#840#0" expanded="false" />
+            <element signature="e#858#894#0" expanded="false" />
+            <element signature="e#1042#1064#0" expanded="false" />
+            <element signature="e#2928#2950#0" expanded="false" />
+            <element signature="e#3268#3308#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_testcases_dummy/dummy_appium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_testcases_dummy/appium_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/step_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#632#743#0" expanded="false" />
+            <element signature="e#796#1033#0" expanded="false" />
+            <element signature="e#1072#1127#0" expanded="false" />
+            <element signature="e#2494#2623#0" expanded="false" />
+            <element signature="e#2664#2749#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

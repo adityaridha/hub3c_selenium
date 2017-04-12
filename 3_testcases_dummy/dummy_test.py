@@ -95,6 +95,14 @@ def convert_round(data):
 
 '''write csv test'''
 
-with open('eggs.csv', 'a') as csvfile:
-    spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    spamwriter.writerow(['Muhammad','Indonesia'])
+# with open('eggs.csv', 'a') as csvfile:
+#     spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#     spamwriter.writerow(['Muhammad','Indonesia'])
+
+'''test JSON'''
+
+data = {"meta": {"business": {"businessId": 0,"profileLastUpdate": 0,"teamMemberLastUpdate": 0,"lastConnected": 0,"lastRequested": 0,"lastInvited": 0},"user": {"userId": 0,"profileLastUpdate": 0},
+                 "job2Job": None },"status": {"type": "Success","message": None,"fieldMessages": []},
+        "data": [{"projectId": 493,"projectName": "roro","proposedStart": 1487196000,"proposedEnd": 1514152800,"percentageComplete": 33.33,"projectActivityCount": 3,"projectActivityToDo": 1,"projectActivityCompleted": 2,"daysOverdue": 265,"daysTotal": 312,"daysElapsed": 46,"statusTypeCode": "InProgress","statusTypeCodeId": 2}]}
+print(data["data"][0]["statusTypeCode"])
+
