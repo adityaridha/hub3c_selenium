@@ -16,7 +16,7 @@ __status__      = "development"
 __last_update__ = "10th Feb 2017"
 
 
-class Hub3cUtility():
+class Hub3cUtility() :
 
     def __init__(self):
         self.current_time = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
@@ -25,7 +25,7 @@ class Hub3cUtility():
     def setup_browser(self, browser, url):
         if browser == 'Firefox': self.driver = webdriver.Firefox()
         if browser == 'Chrome' : self.driver = webdriver.Chrome()
-        self.driver.maximize_window()
+        # self.driver.maximize_window()
         self.driver.get(url)
         assert url == self.driver.current_url
 
@@ -35,7 +35,7 @@ class Hub3cUtility():
 
     def login_hub3c(self, username, password):
         driver = self.driver
-        try :
+        try:
             WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "UserName")))
             print("Login page is ready!")
         except TimeoutException:
@@ -47,7 +47,7 @@ class Hub3cUtility():
         driver.find_element_by_name('go').click()
         time.sleep(5)
 
-        if username == 'mike@hub3c.com' :
+        if username == 'mike@hub3c.com':
             time.sleep(2)
             driver.find_element_by_xpath("/html/body/div[1]/div/div/div/div[1]/span").click()
             time.sleep(1)
