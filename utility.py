@@ -8,5 +8,5 @@ root_model = os.path.join(str(root),'model')
 sys.path.append(root_model)
 
 
-
-
+print(root)
+print(sys.path)

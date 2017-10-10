@@ -25,9 +25,9 @@ class Hub3cUtility() :
     def setup_browser(self, browser, url):
         if browser == 'Firefox': self.driver = webdriver.Firefox()
         if browser == 'Chrome' : self.driver = webdriver.Chrome()
-        # self.driver.maximize_window()
+        self.driver.maximize_window()
         self.driver.get(url)
-        assert url == self.driver.current_url
+
 
     def close_browser(self):
         print("closing the browser")
@@ -35,16 +35,17 @@ class Hub3cUtility() :
 
     def login_hub3c(self, username, password):
         driver = self.driver
+        print("login")
         try:
-            WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "UserName")))
+            WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "Email")))
             print("Login page is ready!")
         except TimeoutException:
             print("Loading took too much time!")
 
         print("fill in the user credential")
-        driver.find_element_by_id("UserName").send_keys(username)
+        driver.find_element_by_id("Email").send_keys(username)
         driver.find_element_by_id("Password").send_keys(password)
-        driver.find_element_by_name('go').click()
+        driver.find_element_by_xpath("//button[contains(text(),'Log in')]").click()
         time.sleep(5)
 
         if username == 'mike@hub3c.com':
